@@ -11,7 +11,7 @@ Version 2.0.0
 December 23, 2021
 ------------------------------
 - Expanded on the original SIWE icons
-- Published to Figma Community File: 
+- Published to Figma Community File: https://www.figma.com/community/file/1057469522423050805/Sign-In-with-Ethereum-Buttons-2.0.0
 - Balanced icons and typography
 - Created rounded versions of all buttons
 - Created buttons without text
