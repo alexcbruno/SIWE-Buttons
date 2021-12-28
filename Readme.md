@@ -4,7 +4,7 @@
 
 https://login.xyz
 
-About: Sign-In with Ethereum is a new form of authentication that enables users to control their digital identity with their Ethereum account and ENS profile instead of relying on a traditional intermediary. Already used throughout web3, this is an effort to standardize the method with best practices and to make it easier for web2 services to adopt it.
+Sign-In with Ethereum is a new form of authentication that enables users to control their digital identity with their Ethereum account and ENS profile instead of relying on a traditional intermediary. Already used throughout web3, this is an effort to standardize the method with best practices and to make it easier for web2 services to adopt it.
 
 
 ## Changelog
@@ -12,7 +12,7 @@ About: Sign-In with Ethereum is a new form of authentication that enables users 
 ### Version 2.0.0
 December 23, 2021
 - Expanded on the original SIWE icons
-- Published to Figma Community File: https://www.figma.com/community/file/1057469522423050805/Sign-In-with-Ethereum-Buttons-2.0.0
+- Published to Figma Community: https://www.figma.com/community/file/1057469522423050805/Sign-In-with-Ethereum-Buttons-2.0.0
 - Balanced icons and typography
 - Created rounded versions of all buttons
 - Created buttons without text
