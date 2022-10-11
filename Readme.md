@@ -1,4 +1,4 @@
-![Sign-in with Ethereum Buttons preview image showing different options available for developer use.](https://github.com/alexcbruno/SIWE-Buttons/raw/main/2.0.0/SIWE-Preview-v2.0.0.png?raw=true)
+![Sign-in with Ethereum Buttons preview image showing different options available for developer use.](https://github.com/alexcbruno/SIWE-Buttons/raw/main/2.0.1/SIWE-Preview-v2.0.1.png?raw=true)
 
 # Sign-In with Ethereum Buttons
 
